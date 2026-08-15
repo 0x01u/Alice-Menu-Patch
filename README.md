@@ -10,4 +10,6 @@ Note: This project only addresses the issue where the daily disposable version h
 
 How to use: Download the zip, unzip it, and run HOOK.exe. Afterwards, just follow the original process.
 
-GTA-V Alice2333 Menu Hooked susscessfull , Just today Added an extra year of validity on top of the original.
+GTA-V Alice2333 Menu Hooked susscessfull , 
+
+By means of Hook, acquire an extra three‑day service term for every version. In the event that no new version is subsequently released, the expiration time will be extended continuously to allow temporary use.
