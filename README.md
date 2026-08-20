@@ -1,15 +1,20 @@
 # Alice-Menu-Patch
 
-this program is free !
+This program is free!
 
-Fix the issue where the daily version of Alice2333 Menu didn't update in time, causing no cheats to be available
+It fixes the issue where the Alice2333 menu's daily version wasn’t updating in time, which made all cheat functions unusable.
 
-WARNNING: Only the binary executable is provided, use it at your own risk.
+###Warning: 
+Only the binary executable is provided. Use at your own risk.
 
-Note: This project only addresses the issue where the daily disposable version hasn't been updated, causing no free assistance to be available in GTAV OL. During the original author's update, this version won't be updated.
+###Note: 
+This project only addresses the problem where the daily one-time version isn’t updated, causing the free assistant in GTAV OL to be unusable. When the original author updates, this version will not be updated.
 
-How to use: Download the zip, unzip it, and run HOOK.exe. Afterwards, just follow the original process.
+###How to use: 
+Download HOOK.exe from the Release section.
+Place it in the AliceMenu directory,
+then just run HOOK.exe as an administrator to use the previous compatible version.
 
-GTA-V Alice2333 Menu Hooked susscessfull , 
+GTA-V Alice2333 menu hook successful.
 
-By means of Hook, acquire an extra three‑day service term for every version. In the event that no new version is subsequently released, the expiration time will be extended continuously to allow temporary use.
+With the hook, each version can gain an extra three days of service time. If no new version is released afterward, the expiration time will continue to extend for temporary use.
